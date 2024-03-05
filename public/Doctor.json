@@ -1,0 +1,151 @@
+ [
+      {
+        "id": 1,
+        "name": "Dr. Ayşe",
+        "specialty": "Internal Medihttpscine",
+        "appointment_cost": "$200",
+        "location": "Istanbul, Turkey",
+    
+          "Monday": "9:00 AM - 5:00 PM",
+          "Wednesday": "10:00 AM - 6:00 PM",
+          "Friday": "8:00 AM - 4:00 PM",
+       
+        "image_url": "./Doctordataimage/AYSE_Dubai_Obstetrics_Gynecology-1536x647 - resize.jpg",
+        "benefits": "Dr. Ayşe has extensive experience and provides comprehensive treatment with an individual and careful approach.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Dr. Mehmet",
+        "specialty": "Neurology",
+        "appointment_cost": "$250",
+        "location": "Ankara, Turkey",
+        "Monday": "8:00 AM - 2:00 PM",
+          "Tuesday": "9:00 AM - 3:00 PM",
+          "Thursday": "11:00 AM - 7:00 PM",
+        
+        "image_url": "./Doctordataimage/mehmetresize.jpg",
+        "benefits": "Dr. Mehmet is an expert in complex neurological conditions and utilizes state-of-the-art treatment methods.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Dr. Zeynep",
+        "specialty": "Cardiology",
+        "appointment_cost": "$180",
+        "location": "Izmir, Turkey",
+   
+          "Monday": "10:00 AM - 4:00 PM",
+          "Wednesday": "11:00 AM - 5:00 PM",
+          "Friday": "9:00 AM - 3:00 PM"
+        ,
+        "image_url": "./Doctordataimage/169.jpg",
+        "benefits": "Dr. Zeynep specializes in heart health and offers personalized treatments.",
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "name": "Dr. Ali",
+        "specialty": "Orthopedics",
+        "appointment_cost": "$220",
+        "location": "Izmir, Turkey",
+        "Monday": "9:00 AM - 3:00 PM",
+          "Tuesday": "8:00 AM - 2:00 PM",
+          "Thursday": "10:00 AM - 4:00 PM"
+        ,
+        "image_url": "./Doctordataimage/ali (1)resize.jpeg",
+        "benefits": "Dr. Ali specializes in bone and joint disorders and applies modern surgical techniques.",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Dr. Fatma",
+        "specialty": "Ophthalmology",
+        "appointment_cost": "$190",
+        "location": "Ankara, Turkey",
+
+          "Monday": "10:00 AM - 3:00 PM",
+          "Wednesday": "11:00 AM - 4:00 PM",
+          "Friday": "9:00 AM - 2:00 PM"
+        ,
+        "image_url": "./Doctordataimage/Drfatma resize.jpg",
+        "benefits": "Dr. Fatma specializes in eye diseases and uses modern treatment methods.",
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Dr. Can",
+        "specialty": "Urology",
+        "appointment_cost": "$230",
+        "location": "Istanbul, Turkey",
+ 
+          "Monday": "9:00 AM - 1:00 PM",
+          "Thursday": "10:00 AM - 2:00 PM",
+          "Friday": "8:00 AM - 12:00 PM"
+        ,
+        "image_url": "./Doctordataimage/dr-can-karaca-resize.png",
+        "benefits": "Dr. Can specializes in urological problems and prioritizes patient satisfaction.",
+        "rating": 4.4
+      },
+      {
+        "id": 7,
+        "name": "Dr. Esra",
+        "specialty": "Mental Health",
+        "appointment_cost": "$200",
+        "location": "Izmir, Turkey",
+   
+          "Monday": "9:00 AM - 2:00 PM",
+          "Wednesday": "10:00 AM - 3:00 PM",
+          "Friday": "8:00 AM - 1:00 PM"
+        ,
+        "image_url": "./Doctordataimage/esra-soyer-doctor-2-360x562resize.jpg",
+        "benefits": "Dr. Esra specializes in mental health and psychotherapy, providing a supportive environment.",
+        "rating": 4.9
+      },
+      {
+        "id": 8,
+        "name": "Dr. Hakan",
+        "specialty": "Otorhinolaryngology",
+        "appointment_cost": "$210",
+        "location": "Ankara, Turkey",
+    
+          "Monday": "8:00 AM - 12:00 PM",
+          "Thursday": "9:00 AM - 1:00 PM",
+          "Friday": "10:00 AM - 2:00 PM"
+        ,
+        "image_url": "./Doctordataimage/hakanresize.jpg",
+        "benefits": "Dr. Hakan specializes in ENT disorders and uses modern treatment methods.",
+        "rating": 4.2
+      },
+      {
+        "id":9 ,
+        "name": "Dr. Seda",
+        "specialty": "Dermatology",
+        "appointment_cost": "$180",
+        "location": "Istanbul, Turkey",
+
+          "Monday": "10:00 AM - 4:00 PM",
+          "Wednesday": "11:00 AM - 5:00 PM",
+          "Friday": "9:00 AM - 3:00 PM"
+        ,
+        "image_url": "./Doctordataimage/sedaresize.jpg",
+        "benefits": "Dr. Seda specializes in skin diseases and aesthetic surgery, prioritizing patient satisfaction.",
+        "rating": 4.8
+      },
+      {
+        "id": 10,
+        "name": "Dr. Murat",
+        "specialty": "General Surgery",
+        "appointment_cost": "$240",
+        "location": "Ankara, Turkey",
+ 
+          "Monday": "9:00 AM - 3:00 PM",
+          "Thursday": "11:00 AM - 5:00 PM",
+          "Friday": "8:00 AM - 2:00 PM"
+        ,
+        "image_url": "./Doctordataimage/muratresize.jpg",
+        "benefits": "Dr. Murat specializes in general surgery with a patient-focused approach.",
+        "rating": 4.1
+      }
+    ]
+  
