@@ -7,7 +7,7 @@ const FullDetailsdiagnostic = () => {
     const {id}=useParams()
     console.log(id)
     useEffect(()=>{
-        fetch('../../../../public/Diagonistc.json')
+        fetch('/Diagonistc.json')
         .then(res=>res.json())
         .then(data=>{
             const singleData=data.find(item=>item.id==id)
@@ -21,7 +21,7 @@ const FullDetailsdiagnostic = () => {
       <div className="card col-sm-4  col-md-4 mr-auto ml-auto  shadow-xl">
 
         <div className="card-body">
-          <h2 className="card-title">
+          <h2 className="card-title text-center font-bold text-lg text-blue-700">
             {name}
             <div className="badge badge-secondary">{phone}</div>
           </h2>

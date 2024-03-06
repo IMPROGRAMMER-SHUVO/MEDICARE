@@ -4,7 +4,7 @@ import AntherHostpital from './AntherHostpital';
 const Hospital = () => {
     const [Hospital,setHospital]=useState([])
     useEffect(()=>{
-        fetch('../../../../public/Hospital.json')
+        fetch('./Hospital.json')
         .then(res=>res.json())
         .then(data=>setHospital(data))
     },[])

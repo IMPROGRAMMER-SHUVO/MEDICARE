@@ -4,7 +4,7 @@ import AnotherAmbulance from './AnotherAmbulance';
 const Ambulance = () => {
     const [Ambulanceid,setAmbulaneid]=useState([])
     useEffect(()=>{
-        fetch('../../../../public/Ambulance.json')
+        fetch('./Ambulance.json')
         .then(res=>res.json())
         .then(data=>setAmbulaneid(data))
     },[])

@@ -62,7 +62,7 @@ element:<PrivateRouse><FullditailsHospital></FullditailsHospital></PrivateRouse>
       },
       {
 path:'Htech/:id',
-loader:({params})=>fetch(`Ambulance.json/${params.id}`),
+loader:({params})=>fetch(`Diagonistc.json/${params.id}`),
 element:<PrivateRouse><FullDetailsdiagnostic></FullDetailsdiagnostic></PrivateRouse>
       },
       {

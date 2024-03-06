@@ -17,7 +17,7 @@ const FullDetailsDoctor = () => {
 
   console.log(id)
   useEffect(() => {
-    fetch('../../../public/Doctor.json')
+    fetch('/Doctor.json')
       .then(res => res.json())
       .then(data => {
         const singleData = data.find(item => item.id == id)

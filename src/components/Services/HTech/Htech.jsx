@@ -6,7 +6,7 @@ const [Diagonistic,setDiagonistic]=useState([])
 
 
 useEffect(()=>{
-    fetch('../../../../public/Diagonistc.json')
+    fetch('./Diagonistc.json')
     .then(res=>res.json())
     .then(data=>setDiagonistic(data))
 },[])
