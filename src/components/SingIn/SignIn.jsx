@@ -55,7 +55,7 @@ const googlehandle=()=>{
           <div className="hero min-h-screen bg-slate-100">
   <div className="hero-content flex-col lg:flex-row">
     <div className="text-center lg:text-left">
-      <h1 className="text-5xl font-bold">SignUP Now!</h1>
+      <h1 className="text-5xl font-bold">SignIn Now!</h1>
       
     </div>
     <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-slate-50">
