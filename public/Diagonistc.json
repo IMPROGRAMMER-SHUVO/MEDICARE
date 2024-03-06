@@ -9,7 +9,7 @@
       "website": "https://www.labcorp.com",
       "result_time": "Varies (typically within 1-3 days)",
       "patient_feedback": "LabCorp provided excellent service. Results were delivered promptly.",
-      "image_path": "../public/Diagonistricdataimage/LabCorp.jpeg",
+      "image_path": "./public/Diagonistricdataimage/LabCorp.jpeg",
       "cost_per_test": "$50"
     },
     {
@@ -22,7 +22,7 @@
       "website": "https://www.questdiagnostics.com",
       "result_time": "Varies (typically within 1-2 days)",
       "patient_feedback": "Quest Diagnostics provided thorough testing and delivered results quickly.",
-      "image_path": "../public/Diagonistricdataimage/download.jpeg",
+      "image_path": "/Diagonistricdataimage/download.jpeg",
       "cost_per_test": "$60"
     },
     {
@@ -35,7 +35,7 @@
       "website": "https://www.bioreference.com",
       "result_time": "Varies (typically within 2-5 days)",
       "patient_feedback": "BioReference Laboratories provided accurate testing and communicated results effectively.",
-      "image_path": "../public/Diagonistricdataimage/BioReference Laboratories.jpg",
+      "image_path": "./Diagonistricdataimage/BioReference Laboratories.jpg",
       "cost_per_test": "$70"
     },
     {

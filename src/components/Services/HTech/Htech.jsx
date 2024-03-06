@@ -17,7 +17,7 @@ useEffect(()=>{
         <div className='max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16'>
            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 text-center'>
              {
-                Diagonistic.map(Diagonist=><DataDiagonistic key={Diagonist.id}Diagonist={Diagonist}></DataDiagonistic>)
+              Diagonistic.length===0?<span className="loading loading-infinity loading-lg"></span> : Diagonistic.map(Diagonist=><DataDiagonistic key={Diagonist.id}Diagonist={Diagonist}></DataDiagonistic>)
              }
            </div>
         </div>
